@@ -28,7 +28,7 @@
 3. Assist students in scheduling their academic courses through tools for course searching, schedule conflict checking, and timetable optimization.
 4. Generate reports on course enrollment trends, student demographics, and other metrics for academic planning and resource allocation.
 
-## HOW TO RUN
+## How to Run
 
 1. Install dependencies for the frontend using npm i, then start with npm run dev.
 2. Run CourseRegistrationMain.java for the backend.
